@@ -1,0 +1,2 @@
+set REACT_NATIVE_PACKAGER_HOSTNAME=10.0.0.63
+start npm start
